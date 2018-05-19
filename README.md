@@ -8,3 +8,5 @@ For example you may start this code -
 
 Must print - "Hello world".
 Have fun!
+
+If you want start a text file use bf_from_file.py, default start file - "input.txt"
